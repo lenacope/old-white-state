@@ -1,0 +1,11 @@
+E:\git\ces\src_ui_test\CES.UIDriver\bin\Debug\Resources\Blank.ces
+E:\git\ces\src_ui_test\CES.UIDriver\bin\Debug\CES.UIDriver.dll
+E:\git\ces\src_ui_test\CES.UIDriver\bin\Debug\CES.UIDriver.pdb
+E:\git\ces\src_ui_test\CES.UIDriver\bin\Debug\Castle.Core.dll
+E:\git\ces\src_ui_test\CES.UIDriver\bin\Debug\TestStack.White.dll
+E:\git\ces\src_ui_test\CES.UIDriver\bin\Debug\Castle.Core.xml
+E:\git\ces\src_ui_test\CES.UIDriver\bin\Debug\TestStack.White.pdb
+E:\git\ces\src_ui_test\CES.UIDriver\bin\Debug\TestStack.White.xml
+E:\git\ces\src_ui_test\CES.UIDriver\obj\Debug\CES.UIDriver.csprojResolveAssemblyReference.cache
+E:\git\ces\src_ui_test\CES.UIDriver\obj\Debug\CES.UIDriver.dll
+E:\git\ces\src_ui_test\CES.UIDriver\obj\Debug\CES.UIDriver.pdb

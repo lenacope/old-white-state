@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version>3</Version>
+  <Database>
+    <Path>C:\Program Files (x86)\CES EduPack 2016\Database\L2_English\data.gdb</Path>
+  </Database>
+  <Stages />
+</Project>

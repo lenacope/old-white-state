@@ -1,0 +1,14 @@
+E:\git\ces\src_ui_test\UITests\bin\Debug\UITests.dll
+E:\git\ces\src_ui_test\UITests\bin\Debug\UITests.pdb
+E:\git\ces\src_ui_test\UITests\bin\Debug\Castle.Core.dll
+E:\git\ces\src_ui_test\UITests\bin\Debug\nunit.framework.dll
+E:\git\ces\src_ui_test\UITests\bin\Debug\TestStack.White.dll
+E:\git\ces\src_ui_test\UITests\bin\Debug\Castle.Core.xml
+E:\git\ces\src_ui_test\UITests\bin\Debug\nunit.framework.xml
+E:\git\ces\src_ui_test\UITests\bin\Debug\TestStack.White.pdb
+E:\git\ces\src_ui_test\UITests\bin\Debug\TestStack.White.xml
+E:\git\ces\src_ui_test\UITests\obj\Debug\UITests.csprojResolveAssemblyReference.cache
+E:\git\ces\src_ui_test\UITests\obj\Debug\UITests.dll
+E:\git\ces\src_ui_test\UITests\obj\Debug\UITests.pdb
+E:\git\ces\src_ui_test\UITests\bin\Debug\CESUIDriver.dll
+E:\git\ces\src_ui_test\UITests\bin\Debug\CESUIDriver.pdb

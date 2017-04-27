@@ -1,0 +1,11 @@
+E:\git\ces\src_ui_test\CESUIDriver\bin\Debug\Resources\Blank.ces
+E:\git\ces\src_ui_test\CESUIDriver\bin\Debug\CESUIDriver.dll
+E:\git\ces\src_ui_test\CESUIDriver\bin\Debug\CESUIDriver.pdb
+E:\git\ces\src_ui_test\CESUIDriver\bin\Debug\Castle.Core.dll
+E:\git\ces\src_ui_test\CESUIDriver\bin\Debug\TestStack.White.dll
+E:\git\ces\src_ui_test\CESUIDriver\bin\Debug\Castle.Core.xml
+E:\git\ces\src_ui_test\CESUIDriver\bin\Debug\TestStack.White.pdb
+E:\git\ces\src_ui_test\CESUIDriver\bin\Debug\TestStack.White.xml
+E:\git\ces\src_ui_test\CESUIDriver\obj\Debug\CESUIDriver.dll
+E:\git\ces\src_ui_test\CESUIDriver\obj\Debug\CESUIDriver.pdb
+E:\git\ces\src_ui_test\CESUIDriver\obj\Debug\CESUIDriver.csprojResolveAssemblyReference.cache

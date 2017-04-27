@@ -1,0 +1,15 @@
+E:\git\ces\src_ui_test\CES.UITests\bin\Debug\Resources\Blank.ces
+E:\git\ces\src_ui_test\CES.UITests\bin\Debug\CES.UITests.dll
+E:\git\ces\src_ui_test\CES.UITests\bin\Debug\CES.UITests.pdb
+E:\git\ces\src_ui_test\CES.UITests\bin\Debug\Castle.Core.dll
+E:\git\ces\src_ui_test\CES.UITests\bin\Debug\CES.UIDriver.dll
+E:\git\ces\src_ui_test\CES.UITests\bin\Debug\nunit.framework.dll
+E:\git\ces\src_ui_test\CES.UITests\bin\Debug\TestStack.White.dll
+E:\git\ces\src_ui_test\CES.UITests\bin\Debug\CES.UIDriver.pdb
+E:\git\ces\src_ui_test\CES.UITests\bin\Debug\Castle.Core.xml
+E:\git\ces\src_ui_test\CES.UITests\bin\Debug\nunit.framework.xml
+E:\git\ces\src_ui_test\CES.UITests\bin\Debug\TestStack.White.pdb
+E:\git\ces\src_ui_test\CES.UITests\bin\Debug\TestStack.White.xml
+E:\git\ces\src_ui_test\CES.UITests\obj\Debug\CES.UITests.csprojResolveAssemblyReference.cache
+E:\git\ces\src_ui_test\CES.UITests\obj\Debug\CES.UITests.dll
+E:\git\ces\src_ui_test\CES.UITests\obj\Debug\CES.UITests.pdb
